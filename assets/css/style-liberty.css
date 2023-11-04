@@ -9855,15 +9855,15 @@ h3.title-big {
   align-items: center; }
 
 .w3l-main-slider .banner-top1 {
-  background: url(../images/slide2.avif) no-repeat center;
+  background: url(../images/slide2.jpg) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-top2 {
-  background: url(../images/slide3.avif) no-repeat center;
+  background: url(../images/slide4.avif) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-top3 {
-  background: url(../images/slide4.avif) no-repeat center;
+  background: url(../images/slide4.jpg) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-view:before {
@@ -10917,7 +10917,7 @@ div#small-dialog iframe {
 
 /* quotation */
 .quotation {
-  background: url(../images/bg.avif) no-repeat top;
+  background: url(../images/bg.jpg) no-repeat top;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
