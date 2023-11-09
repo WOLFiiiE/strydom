@@ -9866,6 +9866,10 @@ h3.title-big {
   background: url(../images/slide4.jpg) no-repeat center;
   background-size: cover; }
 
+  .w3l-main-slider .banner-top4 {
+    background: url(../images/slide5.jpg) no-repeat center;
+    background-size: cover; }
+
 .w3l-main-slider .banner-view:before {
   content: "";
   background: rgba(0, 0, 0, 0.55);
